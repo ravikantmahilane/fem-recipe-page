@@ -1,0 +1,95 @@
+body{
+    background-color:hsl(30, 54%, 90%);
+    display: flex;;
+    align-items: center;
+    justify-content: center;
+    margin: 35px;   
+    line-height: 1.8;
+    
+}
+             
+    
+.card{
+    width: 650px;
+    text-align: justify;
+    background-color: hsl(0, 0%, 100%);
+    padding: 35px;
+    border-radius: 15px;
+    
+}
+.img{
+    width: 650px;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading{
+    font-family: 'Young Serif';
+    font-size: xx-large;
+    padding-top: 15px;
+}
+p, ul, ol{
+    font-size: 16px;
+    font-family:'Outfit';
+    color: hsl(30, 10%, 34%);
+}
+
+
+.ingrid{
+   
+    font-family: 'Young Serif';
+    color: hsl(14, 45%, 36%);
+    font-size: x-large;
+    padding-top: 15px;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+   
+}
+.instruct{
+    font-family: 'Young Serif';
+    color: hsl(14, 45%, 36%);
+    font-size: x-large;
+    padding-top: 15px;
+    
+} 
+.nutri{
+    border-top: 1px solid hsl(30, 18%, 87%);
+    font-family: 'Young Serif';
+    color: hsl(14, 45%, 36%);
+    font-size: x-large;
+    padding-top: 15px;    
+}
+.para1{
+    background-color: hsl(330, 100%, 98%);
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+.h2heading{
+    color: hsl(332, 51%, 32%);
+    font-family: 'Outfit';
+    margin-left: 15px;
+}
+.table{
+    width: 100%;
+    font-size: 16px;
+    font-family: 'Outfit';
+    color: hsl(30, 10%, 34%);
+    margin: 25px;
+}
+.table td{
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    
+}
+.td{
+color:hsl(14, 45%, 36%);;
+font-weight: 700;
+}
+ .attribution {
+     font-size: 11px;
+     padding-top: 100%;
+ }
+
+ .attribution a {
+     color: hsl(228, 45%, 44%);
+ }
